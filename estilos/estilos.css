@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to left ,red , black, red);
+}
+
+
+
+
+           /****ESTILOS*******/
+
+/**********CLASES INDEX******/
+
+.imgcarrusel{
+    height: 70vh;
+}
+
+
+/********** CLASES CONTACTO**********/
+.imgcontacto{
+    margin: 5px 0 5px 50px;
+}
+
+.h1contacto{
+    text-align: center;
+    color: white;
+}
