@@ -7,14 +7,14 @@ body{
 
            /****ESTILOS*******/
 
-/**********CLASES INDEX******/
+/**********ESTILOS INDEX******/
 
 .imgcarrusel{
     height: 70vh;
 }
 
 
-/********** CLASES CONTACTO**********/
+/********** ESTILOS CONTACTO**********/
 .imgcontacto{
     margin: 5px 0;
 }
@@ -22,4 +22,28 @@ body{
 .h1contacto{
     text-align: center;
     color: white;
+}
+
+/******************* ESTILOS ACCESORIOS *************/
+
+#secpc{
+    display: flex;
+    flex-flow: wrap;
+    
+}
+.imgsecpc{
+    margin: 5px 0 5px 70px;
+    width: 20%;
+    height: 40vh;
+}
+
+#seccel{
+    display: flex;
+    flex-flow: wrap;
+}
+
+.imgseccel{
+    margin: 5px 0 5px 70px;
+    width: 20%;
+    height: 40vh;
 }
