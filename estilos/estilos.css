@@ -7,14 +7,15 @@ body{
 
            /****ESTILOS*******/
 
-/**********ESTILOS INDEX******/
+/**********ESTILOS "INDEX" ***************/
 
 .imgcarrusel{
     height: 70vh;
+
 }
 
 
-/********** ESTILOS CONTACTO**********/
+/********** ESTILOS "CONTACTO"**************/
 .imgcontacto{
     margin: 5px 0;
 }
@@ -24,15 +25,17 @@ body{
     color: white;
 }
 
-/******************* ESTILOS ACCESORIOS *************/
-
+/******************* ESTILOS "ACCESORIOS" *************/
+.h1acc{
+    color: white;
+}
 #secpc{
     display: flex;
     flex-flow: wrap;
     
 }
 .imgsecpc{
-    margin: 5px 0 5px 70px;
+    margin: 5px 0 5px 100px;
     width: 20%;
     height: 40vh;
 }
@@ -43,7 +46,57 @@ body{
 }
 
 .imgseccel{
-    margin: 5px 0 5px 70px;
+    margin: 5px 0 5px 100px;
     width: 20%;
     height: 40vh;
 }
+
+
+/************* ESTILOS "NOSOTROS"************/
+.h1{
+   color: white;
+   text-align: center;
+}
+
+.p{
+    color: white;
+    font-size: medium;
+    text-align: center;
+}
+
+
+
+/*************** ESTILOS "CELULARES"*************/
+
+.secapp{
+    display: flex;
+    flex-flow: wrap;
+}
+
+.secsam{
+    display: flex;
+    flex-flow: wrap;
+}
+
+.secmoto{
+    display: flex;
+    flex-flow: wrap;
+
+}
+
+
+.imgcelulares{
+    margin: 0 0 10px 120px;
+    width: 20%;
+}
+
+
+.h1cel{
+    color: white;
+    text-align: center;
+}
+.hr{
+    color: white;
+    size: 20px;
+
+}    
