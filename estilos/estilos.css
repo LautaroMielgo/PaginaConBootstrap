@@ -28,6 +28,7 @@ body{
 /******************* ESTILOS "ACCESORIOS" *************/
 .h1acc{
     color: white;
+    text-align: center;
 }
 #secpc{
     display: flex;
@@ -36,8 +37,8 @@ body{
 }
 .imgsecpc{
     margin: 5px 0 5px 100px;
-    width: 20%;
-    height: 40vh;
+     width: 200px; 
+    /* height: 40vh; */
 }
 
 #seccel{
@@ -47,9 +48,10 @@ body{
 
 .imgseccel{
     margin: 5px 0 5px 100px;
-    width: 20%;
-    height: 40vh;
+     width: 200px; 
+     height: 40vh; 
 }
+
 
 
 /************* ESTILOS "NOSOTROS"************/
