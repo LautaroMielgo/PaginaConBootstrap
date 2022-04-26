@@ -1,0 +1,85 @@
+body {
+  background-image: linear-gradient(to left, red, black, red);
+}
+
+.imgcarrusel {
+  height: 70vh;
+}
+
+.imgcontacto {
+  margin: 5px 0;
+}
+
+.h1contacto {
+  text-align: center;
+  color: white;
+}
+
+.h1acc {
+  color: white;
+  text-align: center;
+}
+
+#secpc {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.imgsecpc {
+  margin: 5px 0 5px 100px;
+  width: 200px;
+}
+
+#seccel {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.imgseccel {
+  margin: 5px 0 5px 100px;
+  width: 200px;
+  height: 40vh;
+}
+
+.h1 {
+  color: white;
+  text-align: center;
+}
+
+.p {
+  color: white;
+  font-size: medium;
+  text-align: center;
+}
+
+.secapp {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.secsam {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.secmoto {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.imgcelulares {
+  margin: 0 0 10px 120px;
+  width: 20%;
+}
+
+.h1cel {
+  color: white;
+  text-align: center;
+}
+
+.hr {
+  color: white;
+  size: 20px;
+}
+
+/*# sourceMappingURL=destino.css.map */
