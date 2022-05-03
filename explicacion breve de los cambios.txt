@@ -1,0 +1,5 @@
+-Aplico "keywords" personalizados para cada html
+
+-Cambio los titulos de las paginas "contacto" "nosotros" "accesorios" "celulares"
+
+-Aplico "description" personalizada para cada html

@@ -46,7 +46,7 @@ body {
   text-align: center;
 }
 
-.p {
+.p, .p-nuevo {
   color: white;
   font-size: medium;
   text-align: center;
@@ -80,6 +80,25 @@ body {
 .hr {
   color: white;
   size: 20px;
+}
+
+.seccionapp {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.secccionsam {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.seccionmoto {
+  display: flex;
+  flex-flow: wrap;
+}
+
+.p-nuevo {
+  color: gray;
 }
 
 /*# sourceMappingURL=destino.css.map */

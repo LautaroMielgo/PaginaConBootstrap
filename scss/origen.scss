@@ -95,3 +95,27 @@ body{
     size: 20px;
 
 }   
+
+@mixin display ($dysplay, $flow ) {
+    display: $dysplay;
+    flex-flow: $flow;
+    
+}
+
+.seccionapp{
+        @include display(flex,wrap )
+}
+
+.secccionsam{
+    @include display(flex,wrap )
+}
+        
+.seccionmoto{
+    @include display(flex,wrap );
+}
+
+
+.p-nuevo{
+    @extend .p;
+    color: gray;
+}
